@@ -1,5 +1,5 @@
 [package]
-name = "ip_sniffer"
+name = "IpSniffer"
 version = "0.1.0"
 authors = ["Sidharth K <sidharth.k9@mailbox.org>"]
 edition = "2018"
